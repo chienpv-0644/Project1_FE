@@ -6,10 +6,6 @@ function App() {
   return (
     <div className="App">
       <div>Hello react js</div>
-      <header className="App-header">
-        Hello JS
-      </header>
-     
     </div>
   );
 }
